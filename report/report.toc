@@ -1,0 +1,6 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {I.}The dataset}{2}{section.1}
+\contentsline {section}{\numberline {II.}The essence of localization}{3}{section.2}
+\contentsline {section}{\numberline {III.}The visualization}{5}{section.3}
+\contentsline {section}{\numberline {IV.}Issues}{7}{section.4}
+\contentsline {section}{\numberline {V.}Overview}{7}{section.5}

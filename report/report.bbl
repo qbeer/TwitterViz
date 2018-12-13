@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{leaflet}
+LeafletJS.
+\newblock https://leafletjs.com.
+\newblock 2018.
+
+\bibitem{qbeer}
+Alex Olar.
+\newblock https://github.com/qbeer/photoz.
+\newblock 2018.
+
+\bibitem{deployed_app}
+Alex Olar.
+\newblock https://twitter-localization.herokuapp.com.
+\newblock 2018.
+
+\bibitem{sklearn}
+scikit learn.
+\newblock http://scikit-learn.org/stable/.
+\newblock 2018.
+
+\bibitem{dbscan}
+Wikipedia.
+\newblock https://en.wikipedia.org/wiki/dbscan.
+\newblock 2018.
+
+\bibitem{wiki_haversine}
+Wikipedia.
+\newblock https://en.wikipedia.org/wiki/haversine\_formula.
+\newblock 2018.
+
+\end{thebibliography}

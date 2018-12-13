@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--empty journal in leaflet
+Warning--empty journal in qbeer
+Warning--empty journal in deployed_app
+Warning--empty journal in sklearn
+Warning--empty journal in dbscan
+Warning--empty journal in wiki_haversine
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            514 strings with 4298 characters,
+and the built_in function-call counts, 1238 in all, are:
+= -- 114
+> -- 42
+< -- 0
++ -- 18
+- -- 12
+* -- 50
+:= -- 237
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 60
+empty$ -- 103
+format.name$ -- 12
+if$ -- 241
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 42
+stack$ -- 0
+substring$ -- 30
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 6
+while$ -- 12
+width$ -- 7
+write$ -- 56
+(There were 6 warnings)
